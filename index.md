@@ -58,10 +58,10 @@ Technologies: react/redux, d3
 
 ## Education
 
-`2016-2018` | __MS in Computer Science__
+`2016-2018` | __MS in Systems Engineering__
 - National Technical University of Ukraine “Kyiv Polytechnic Institute”
 
-`2012-2016` | __BS in Computer Science__
+`2012-2016` | __BS in Systems Engineering__
 - National Technical University of Ukraine “Kyiv Polytechnic Institute”
 
 ## Languages
