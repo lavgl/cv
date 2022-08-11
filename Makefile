@@ -1,2 +1,5 @@
-html: index.md style.css
-	pandoc index.md --standalone -c style.css -f markdown -t html -o index.html
+html: clear index.md style.css
+	bin/make_html.sh
+
+clear:
+	rm -rf out
