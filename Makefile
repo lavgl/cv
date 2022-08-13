@@ -1,5 +1,5 @@
-html: clear index.md style.css
+html: clean index.md style.css
 	bin/make_html.sh
 
-clear:
+clean:
 	rm -rf out
