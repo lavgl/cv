@@ -28,7 +28,7 @@ The main areas of my responsibilities were:
 - to improve the effectiveness of SEO score at kasta.ua (kasta.ua is a marketplace, so organic traffic and therefore SEO is very important) and to improve the productivity of our SEO department by building tools that extend their abilities (like the ability to use smart template engine for product names that involve natural language processing) and by automating some of their jobs;  
 - to improve the effectiveness of our Marketing department by automating some of their job (like building data pipeline integrations with Google/Facebook ads to keep ads up-to-date or building integration with eSputnik to provide omnichannel message delivery to our customers).
 
-Technologies: clojure, clojurescript, kafka, postgresql, elasticsearch, tinode
+Technologies: clojure, clojurescript, kafka, postgresql, elasticsearch, tinode, go, python
 
 
 __Full-Stack JS developer__   
@@ -40,7 +40,7 @@ Responsibilities:
 - participating in designing initial projects architecture and initial estimation;  
 - conducting tech interviews;  
 
-Technologies: react/redux, node.js, socket.io, mongodb
+Technologies: javascript, typescript, react/redux stack, node.js, websockets, socket.io, mongodb
 
 
 __Front-End developer__  
@@ -54,7 +54,7 @@ Responsibilities:
 - optimizing UI performance;  
 - conducting tech interviews;  
 
-Technologies: react/redux, d3
+Technologies: javascript, react/redux stack, d3, canvas, websockets
 
 ## Education
 
@@ -65,7 +65,7 @@ Technologies: react/redux, d3
 - National Technical University of Ukraine “Kyiv Polytechnic Institute”
 
 ## Languages
-- English: intermediate 
+- English: upper-intermediate
 - Ukrainian: native
 
 
