@@ -7,8 +7,7 @@ Senior Software Engineer
 
 Kyiv, Ukraine | Remote
 
-<a href="mailto:avg.idm@gmail.com">avg.idm@gmail.com</a>
-| <a href="tel:+380992888295">+380992888295</a>
+<a href="mailto:inbox@homonov.me">inbox@homonov.me</a>
 | <a href="https://github.com/lavgl"><i class="fab fa-github"></i>GitHub</a>
 | <a href="https://www.linkedin.com/in/vhomonov/">Linked In</a>
 
@@ -71,4 +70,4 @@ Technologies: javascript, react/redux stack, d3, canvas, websockets
 
 
 <br>
-Last updated: August 2022 
+Last updated: September 2022
